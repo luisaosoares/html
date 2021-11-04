@@ -2,6 +2,10 @@ body {
   background: #58d8e8; /* mudar a cor de fundo do site acontece quando está no body */
   font-family: lato;
 }
+h1 {
+  display: inline;
+  color: blueviolet;
+}
 .menu {
   text-align: right;
   margin-top: 50px;
